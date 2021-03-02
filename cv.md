@@ -1,50 +1,66 @@
-![Oleksandr Avdasov - Foto](https://github.com/agentfreedom/rsschool-cv/blob/gh-pages/insta-ava.jpg)
+##### Junior Front-End Developer from Kyiv
 
 # Oleksandr Avdasov
 
-## Junior Front-End Developer from Kyiv
+_[Foto](https://github.com/agentfreedom/rsschool-cv/blob/gh-pages/insta-ava.jpg)_
 
-#### tel: +380957519026
+---
 
-#### email: agentfreedom@zoho.com
+### Contacts
 
-#### LinkedIn: https://www.linkedin.com/in/oleksandr-avdasov/
+T: +380957519026
+E: agentfreedom@zoho.com
+Li: https://www.linkedin.com/in/oleksandr-avdasov/
+
+---
 
 ### Summary
 
 _Time and attention to detail are the keys to solving problems of any complexity, and I have these keys. I'm a fan of web development technologies. I study and practice the acquired knowledge in my own small projects. I am looking for a team of mentors to gain commercial development experience. If you have an open vacancy for an intern or a junior web developer, I would be glad to receive your suggestions. I am ready to benefit your company. I am ready to quickly master the internal rules, instructions, and a set of technologies to bring profit to your company._
 
+---
+
 ### Tech Skills
 
-_/ HTML5_
-_/ CSS3_
-_/ Bootstrap_
-_/ FlexBox_
-_/ A11Y_
-_/ Git/GitHub_
-_/ JavaScript_
-_/ jQuery_
-_/ PHP_
-_/ MySql_
-_/ BEM_
-_/ SVG_
-_/ Figma_
-_/ VS Code_
-_/ Google Chrome Dev Tools /_
+- HTML5
+- CSS3
+- Bootstrap
+- FlexBox
+- A11Y
+- Git/GitHub
+- JavaScript
+- jQuery
+- PHP
+- MySql
+- BEM
+- SVG
+- Figma
+- VS Code
+- Google Chrome Dev Tools
+
+---
 
 ### Soft Skills
 
--_/ Agile_ -_/ Scrum_ -_/ GTD_ -_/ Teamwork_ -_/ Trello /_
+- Agile
+- Scrum
+- GTD
+- Teamwork
+- Trello
+
+---
 
 ### Certificates
 
-_/ [HTML/CSS](https://prnt.sc/1011031)_
-_/ [Bootstrap](https://prnt.sc/1010xup)_
-_/ [PHP/MySql](https://prnt.sc/10111at)_
-_/ [HTML + English](https://prnt.sc/1010ysv)_
-_/ [Layout designer. Start](https://prnt.sc/1010wv0)_
-_/ [Digital marketing. Course + practice](https://prnt.sc/1011wbz)_
-_/ [Selling video presentations](https://prnt.sc/101132b) /_
+- [HTML/CSS](https://prnt.sc/1011031)
+- [Bootstrap](https://prnt.sc/1010xup)
+- [PHP/MySql](https://prnt.sc/10111at)
+- [HTML + English](https://prnt.sc/1010ysv)
+- [Layout designer. Start](https://prnt.sc/1010wv0)
+- [Digital marketing. Course + practice](https://prnt.sc/1011wbz)
+- [Selling video presentations](https://prnt.sc/101132b)
+
+---
 
 ### Work Experience
 
@@ -52,10 +68,10 @@ _/ [Selling video presentations](https://prnt.sc/101132b) /_
 
 _January 2018 - to date | Ukraine_
 
-/ [FruktCode](www.fructcode.com)
-/ [WayUp](www.wayup.in)
-/ [GoIT](www.goit.ua)
-/ [freecodecamp](www.freecodecamp.org) /
+- [FruktCode](www.fructcode.com)
+- [WayUp](www.wayup.in)
+- [GoIT](www.goit.ua)
+- [freecodecamp](www.freecodecamp.org)
 
 #### Content Manager | Website Admin - Freelance
 
@@ -63,22 +79,24 @@ _June 2011 - January 2018 | Ukraine_
 
 _Web Design | Web Developer | Website administration | Manager Marketing Specialist_
 
-/ [Energy Taxi](www.energytaxi.kiev.ua)
-/ [StarPom](www.starpom.pro)
-/ [JustVia](www.justvia.com) /
+- [Energy Taxi](www.energytaxi.kiev.ua)
+- [StarPom](www.starpom.pro)
+- [JustVia](www.justvia.com)
 
 #### Works not related to the IT sector - Employee
 
 _August 1998 - to date | Ukraine_
 
-_/ Electromechanic_
-_/ Entrepreneur_
-_/ Taxi driver_
-_/ Specialist in the production of leather goods_
-_/ Soldier_
-_/ Seller_
-_/ Warehouse Manager_
-_/ Loader /_
+- Electromechanic
+- Entrepreneur
+- Taxi driver
+- Specialist in the production of leather goods
+- Soldier
+- Seller
+- Warehouse Manager
+- Loader
+
+---
 
 ### Education
 
@@ -88,8 +106,10 @@ _/ Loader /_
 
 _September 2007 - May 2013 | Ukraine_
 
+---
+
 ### Language
 
-_English - A1 (Beginner)_
-_Ukrainian - C1 (Advanced)_
-_Russian - C1 (Advanced)_
+- English - A1 (Beginner)
+- Ukrainian - C1 (Advanced)
+- Russian - C1 (Advanced)
