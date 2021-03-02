@@ -16,38 +16,38 @@ _Time and attention to detail are the keys to solving problems of any complexity
 
 ### Tech Skills
 
-_/ HTML5 /_
-_/ CSS3 /_
-_/ Bootstrap /_
-_/ FlexBox /_
-_/ A11Y /_
-_/ Git/GitHub /_
-_/ JavaScript /_
-_/ jQuer /y_
-_/ PHP /_
-_/ MySql /_
-_/ BEM /_
-_/ SVG /_
-_/ Figma /_
-_/ VS Code /_
+_/ HTML5_
+_/ CSS3_
+_/ Bootstrap_
+_/ FlexBox_
+_/ A11Y_
+_/ Git/GitHub_
+_/ JavaScript_
+_/ jQuery_
+_/ PHP_
+_/ MySql_
+_/ BEM_
+_/ SVG_
+_/ Figma_
+_/ VS Code_
 _/ Google Chrome Dev Tools /_
 
 ### Soft Skills
 
-_/ Agile /_
-_/ Scrum /_
-_/ GTD /_
-_/ Teamwork /_
+_/ Agile_
+_/ Scrum_
+_/ GTD_
+_/ Teamwork_
 _/ Trello /_
 
 ### Certificates
 
-_/ [HTML/CSS](https://prnt.sc/1011031) /_
-_/ [Bootstrap](https://prnt.sc/1010xup) /_
-_/ [PHP/MySql](https://prnt.sc/10111at) /_
-_/ [HTML + English](https://prnt.sc/1010ysv) /_
-_/ [Layout designer. Start](https://prnt.sc/1010wv0) /_
-_/ [Digital marketing. Course + practice](https://prnt.sc/1011wbz) /_
+_/ [HTML/CSS](https://prnt.sc/1011031)_
+_/ [Bootstrap](https://prnt.sc/1010xup)_
+_/ [PHP/MySql](https://prnt.sc/10111at)_
+_/ [HTML + English](https://prnt.sc/1010ysv)_
+_/ [Layout designer. Start](https://prnt.sc/1010wv0)_
+_/ [Digital marketing. Course + practice](https://prnt.sc/1011wbz)_
 _/ [Selling video presentations](https://prnt.sc/101132b) /_
 
 ### Work Experience
@@ -56,9 +56,9 @@ _/ [Selling video presentations](https://prnt.sc/101132b) /_
 
 _January 2018 - to date | Ukraine_
 
-/ [FruktCode](www.fructcode.com) /
-/ [WayUp](www.wayup.in) /
-/ [GoIT](www.goit.ua) /
+/ [FruktCode](www.fructcode.com)
+/ [WayUp](www.wayup.in)
+/ [GoIT](www.goit.ua)
 / [freecodecamp](www.freecodecamp.org) /
 
 #### Content Manager | Website Admin - Freelance
@@ -67,22 +67,22 @@ _June 2011 - January 2018 | Ukraine_
 
 _Web Design | Web Developer | Website administration | Manager Marketing Specialist_
 
-/ [Energy Taxi](www.energytaxi.kiev.ua) /
-/ [StarPom](www.starpom.pro) /
+/ [Energy Taxi](www.energytaxi.kiev.ua)
+/ [StarPom](www.starpom.pro)
 / [JustVia](www.justvia.com) /
 
 #### Works not related to the IT sector - Employee
 
 _August 1998 - to date | Ukraine_
 
-_Electromechanic /_
-_Entrepreneur /_
-_Taxi driver /_
-_Specialist in the production of leather goods /_
-_Soldier /_
-_Seller /_
-_Warehouse Manager /_
-_Loader /_
+_/ Electromechanic_
+_/ Entrepreneur_
+_/ Taxi driver_
+_/ Specialist in the production of leather goods_
+_/ Soldier_
+_/ Seller_
+_/ Warehouse Manager_
+_/ Loader /_
 
 ### Education
 
