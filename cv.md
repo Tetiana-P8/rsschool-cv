@@ -34,11 +34,7 @@ _/ Google Chrome Dev Tools /_
 
 ### Soft Skills
 
-_/ Agile_
-_/ Scrum_
-_/ GTD_
-_/ Teamwork_
-_/ Trello /_
+-_/ Agile_ -_/ Scrum_ -_/ GTD_ -_/ Teamwork_ -_/ Trello /_
 
 ### Certificates
 
