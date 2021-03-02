@@ -8,9 +8,9 @@ _[Foto](https://github.com/agentfreedom/rsschool-cv/blob/gh-pages/insta-ava.jpg)
 
 ### Contacts
 
-T: +380957519026
-E: agentfreedom@zoho.com
-Li: https://www.linkedin.com/in/oleksandr-avdasov/
+- T: +380957519026
+- E: agentfreedom@zoho.com
+- Li: https://www.linkedin.com/in/oleksandr-avdasov/
 
 ---
 
