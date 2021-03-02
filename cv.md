@@ -16,39 +16,39 @@ _Time and attention to detail are the keys to solving problems of any complexity
 
 ### Tech Skills
 
-_HTML5_
-_CSS3_
-_Bootstrap_
-_FlexBox_
-_A11Y_
-_Git/GitHub_
-_JavaScript_
-_jQuery_
-_PHP_
-_MySql_
-_BEM_
-_SVG_
-_Figma_
-_VS Code_
-_Google Chrome Dev Tools_
+_/ HTML5 /_
+_/ CSS3 /_
+_/ Bootstrap /_
+_/ FlexBox /_
+_/ A11Y /_
+_/ Git/GitHub /_
+_/ JavaScript /_
+_/ jQuer /y_
+_/ PHP /_
+_/ MySql /_
+_/ BEM /_
+_/ SVG /_
+_/ Figma /_
+_/ VS Code /_
+_/ Google Chrome Dev Tools /_
 
 ### Soft Skills
 
-_Agile_
-_Scrum_
-_GTD_
-_Teamwork_
-_Trello_
+_/ Agile /_
+_/ Scrum /_
+_/ GTD /_
+_/ Teamwork /_
+_/ Trello /_
 
 ### Certificates
 
-_[HTML/CSS](https://prnt.sc/1011031)_
-_[Bootstrap](https://prnt.sc/1010xup)_
-_[PHP/MySql](https://prnt.sc/10111at)_
-_[HTML + English](https://prnt.sc/1010ysv)_
-_[Layout designer. Start](https://prnt.sc/1010wv0)_
-_[Digital marketing. Course + practice](https://prnt.sc/1011wbz)_
-_[Selling video presentations](https://prnt.sc/101132b)_
+_/ [HTML/CSS](https://prnt.sc/1011031) /_
+_/ [Bootstrap](https://prnt.sc/1010xup) /_
+_/ [PHP/MySql](https://prnt.sc/10111at) /_
+_/ [HTML + English](https://prnt.sc/1010ysv) /_
+_/ [Layout designer. Start](https://prnt.sc/1010wv0) /_
+_/ [Digital marketing. Course + practice](https://prnt.sc/1011wbz) /_
+_/ [Selling video presentations](https://prnt.sc/101132b) /_
 
 ### Work Experience
 
@@ -56,10 +56,10 @@ _[Selling video presentations](https://prnt.sc/101132b)_
 
 _January 2018 - to date | Ukraine_
 
-[FruktCode](www.fructcode.com)
-[WayUp](www.wayup.in)
-[GoIT](www.goit.ua)
-[freecodecamp](www.freecodecamp.org)
+/ [FruktCode](www.fructcode.com) /
+/ [WayUp](www.wayup.in) /
+/ [GoIT](www.goit.ua) /
+/ [freecodecamp](www.freecodecamp.org) /
 
 #### Content Manager | Website Admin - Freelance
 
@@ -67,28 +67,29 @@ _June 2011 - January 2018 | Ukraine_
 
 _Web Design | Web Developer | Website administration | Manager Marketing Specialist_
 
-[Energy Taxi](www.energytaxi.kiev.ua)
-[StarPom](www.starpom.pro)
-[JustVia](www.justvia.com)
+/ [Energy Taxi](www.energytaxi.kiev.ua) /
+/ [StarPom](www.starpom.pro) /
+/ [JustVia](www.justvia.com) /
 
 #### Works not related to the IT sector - Employee
 
 _August 1998 - to date | Ukraine_
 
-_Electromechanic;_
-_Entrepreneur;_
-_Taxi driver;_
-_Specialist in the production of leather goods;_
-_Soldier;_
-_Seller;_
-_Warehouse Manager;_
-_Loader;_
+_Electromechanic /_
+_Entrepreneur /_
+_Taxi driver /_
+_Specialist in the production of leather goods /_
+_Soldier /_
+_Seller /_
+_Warehouse Manager /_
+_Loader /_
 
 ### Education
 
 #### Sumy National Agrarian University
 
-**Management**
+##### Management
+
 _September 2007 - May 2013 | Ukraine_
 
 ### Language
