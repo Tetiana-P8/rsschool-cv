@@ -89,7 +89,7 @@ _- Loader;_
 **Management**
 _September 2007 - May 2013 | Ukraine_
 
-### Language proficiency
+### Language
 
 _English - A1 (Beginner)_
 _Ukrainian - C1 (Advanced)_
