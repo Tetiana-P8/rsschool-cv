@@ -29,3 +29,21 @@ _- SVG_
 _- Figma_
 _- VS Code_
 _- Google Chrome Dev Tools_
+
+### Soft Skills
+
+_- Agile_
+_- Scrum_
+_- GTD_
+_- Teamwork_
+_- Trello_
+
+### Certificates
+
+_- [HTML/CSS] (https://prnt.sc/1011031)_
+_- [Bootstrap] (https://prnt.sc/1010xup)_
+_- [PHP/MySql] (https://prnt.sc/10111at)_
+_- [HTML + English] (https://prnt.sc/1010ysv)_
+_- [Layout designer. Start] (https://prnt.sc/1010wv0)_
+_- [Digital marketing. Course + practice] (https://prnt.sc/1011wbz)_
+_- [Selling video presentations] (https://prnt.sc/101132b)_
