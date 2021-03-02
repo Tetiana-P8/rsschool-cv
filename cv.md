@@ -1,4 +1,4 @@
-![Foto](http://prntscr.com/10bewk2)
+![Oleksandr Avdasov - Foto](https://github.com/agentfreedom/rsschool-cv/blob/gh-pages/insta-ava.jpg)
 
 # Oleksandr Avdasov
 
